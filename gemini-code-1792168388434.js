@@ -1,0 +1,3 @@
+window.CONFIG = {
+  API_URL: "https://itunes.apple.com"
+};
